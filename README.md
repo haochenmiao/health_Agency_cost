@@ -20,6 +20,7 @@ This project focuses on analyzing financial metrics from Home Health Agency Cost
 * User Defined Functions (UDFs)
 * UDF for Data Replacement and Validation
 * UDF for Calculations
+* Data Visualization
 * Contact
 
 ## Prerequisites
@@ -198,4 +199,10 @@ FROM CostReporthha_2020
 WHERE Total_PPS_Payment_full_episodes_periods_without_outliers > (SELECT AVG(Total_PPS_Payment_full_episodes_periods_without_outliers) + 2 * STDDEV(Total_PPS_Payment_full_episodes_periods_without_outliers) FROM CostReporthha_2020)
     OR Net_Income_or_Loss_for_the_period_line_18_plus
 ```
+
+## Data Visualization
+Here is the PDF for the Power BI Visualization
+
+[Link to PDF](./Home%20Health%20Agency%20Cost.pdf)
+
 
