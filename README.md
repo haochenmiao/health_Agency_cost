@@ -205,4 +205,10 @@ Here is the PDF for the Power BI Visualization
 
 [Link to PDF](./Home%20Health%20Agency%20Cost.pdf)
 
+## Publishment
+Here is the Medium Link for the Power BI in depth explanation
+[Medium](https://medium.com/@miaohaochen0423/unlocking-insights-from-home-healthcare-cost-revenue-and-visit-analysis-for-2020-2021-with-0d2a3753e3bc)
+
+
+
 
